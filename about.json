@@ -3,7 +3,7 @@
   "about_url": "https://github.com/Chaboi45/discourse-keyboard-text/blob/master/about.json",
   "license_url": "https://github.com/Chaboi45/discourse-keyboard-text/blob/master/LICENSE",
   "authors": "Chaboi_3000, @denvergeeks",
-  "theme_version": "1",
+  "theme_version": "1.1.1",
   "component": true
   
 }
