@@ -1,7 +1,7 @@
 {
-  "name": "Keyboard Text Button Component",
-  "about_url": "https://github.com/Chaboi45/discourse-keyboard-text/blob/master/about.json",
-  "license_url": "https://github.com/Chaboi45/discourse-keyboard-text/blob/master/LICENSE",
+  "name": "Composer Keyboard Button",
+  "about_url": "https://github.com/denvergeeks/discourse-composer-kbd",
+  "license_url": "https://github.com/denvergeeks/discourse-composer-kbd/blob/master/LICENSE",
   "authors": "Chaboi_3000, @denvergeeks",
   "theme_version": "1.1.1",
   "component": true
