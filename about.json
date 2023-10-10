@@ -1,9 +1,8 @@
 {
   "name": "Composer Keyboard Button",
+  "component": true,
+  "authors": "@denvergeeks",
   "about_url": "https://github.com/denvergeeks/discourse-composer-kbd",
-  "license_url": "https://github.com/denvergeeks/discourse-composer-kbd/blob/master/LICENSE",
-  "authors": "Chaboi_3000, @denvergeeks",
-  "theme_version": "1.1.1",
-  "component": true
-  
+  "about": "Adds an inserted (<kbd>text</kbd>) button to the composer",
+  "version": 0.1
 }
