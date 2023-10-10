@@ -9,11 +9,11 @@
   api.onToolbarCreate(function(toolbar) {
     toolbar.addButton({
       trimLeading: true,
-      id: "buttonID",
+      id: "composer_keyboard_button",
       group: "insertions",
       shortcut: "K",
       icon: 'keyboard',
-      title: "title_a",
+      title: "keyboard_button_title",
       perform: function(e) {
         return e.applySurround(
           '<kbd>',
